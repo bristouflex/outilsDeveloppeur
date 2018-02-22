@@ -5,6 +5,7 @@ import fr.anthonyrey.business.service.DirectoryService;
 import fr.anthonyrey.model.Person;
 import fr.anthonyrey.model.PersonQuery;
 
+
 import java.util.Scanner;
 
 public class FrontEnd {

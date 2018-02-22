@@ -1,7 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07982090-fa0c-4a3e-bca1-525be6b90c6f" name="Default" comment="" />
+    <list default="true" id="07982090-fa0c-4a3e-bca1-525be6b90c6f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/backend/target/backend-1.0-SNAPSHOT-jar-with-dependencies.jar" afterPath="$PROJECT_DIR$/backend/target/backend-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+      <change beforePath="$PROJECT_DIR$/backend/target/backend-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/backend/target/backend-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/backend/target/classes/fr/anthonyrey/backend/PersonPersistenceService.class" afterPath="$PROJECT_DIR$/backend/target/classes/fr/anthonyrey/backend/PersonPersistenceService.class" />
+      <change beforePath="$PROJECT_DIR$/backend/target/surefire-reports/TEST-fr.anthonyrey.backend.AppTest.xml" afterPath="$PROJECT_DIR$/backend/target/surefire-reports/TEST-fr.anthonyrey.backend.AppTest.xml" />
+      <change beforePath="$PROJECT_DIR$/backend/target/surefire-reports/fr.anthonyrey.backend.AppTest.txt" afterPath="$PROJECT_DIR$/backend/target/surefire-reports/fr.anthonyrey.backend.AppTest.txt" />
+      <change beforePath="$PROJECT_DIR$/backend/target/test-classes/fr/anthonyrey/backend/AppTest.class" afterPath="$PROJECT_DIR$/backend/target/test-classes/fr/anthonyrey/backend/AppTest.class" />
+      <change beforePath="$PROJECT_DIR$/business/exceptions/target/classes/fr/anthonyrey/business/exceptions/BusinessException.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/business/exceptions/target/exceptions-1.0-SNAPSHOT-jar-with-dependencies.jar" afterPath="$PROJECT_DIR$/business/exceptions/target/exceptions-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+      <change beforePath="$PROJECT_DIR$/business/exceptions/target/exceptions-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/business/exceptions/target/exceptions-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/business/exceptions/target/surefire-reports/TEST-fr.anthonyrey.business.exception.AppTest.xml" afterPath="$PROJECT_DIR$/business/exceptions/target/surefire-reports/TEST-fr.anthonyrey.business.exception.AppTest.xml" />
+      <change beforePath="$PROJECT_DIR$/business/exceptions/target/surefire-reports/fr.anthonyrey.business.exception.AppTest.txt" afterPath="$PROJECT_DIR$/business/exceptions/target/surefire-reports/fr.anthonyrey.business.exception.AppTest.txt" />
+      <change beforePath="$PROJECT_DIR$/business/exceptions/target/test-classes/fr/anthonyrey/business/exception/AppTest.class" afterPath="$PROJECT_DIR$/business/exceptions/target/test-classes/fr/anthonyrey/business/exception/AppTest.class" />
+      <change beforePath="$PROJECT_DIR$/business/service/target/classes/fr/anthonyrey/business/service/DirectoryService.class" afterPath="$PROJECT_DIR$/business/service/target/classes/fr/anthonyrey/business/service/DirectoryService.class" />
+      <change beforePath="$PROJECT_DIR$/business/service/target/service-1.0-SNAPSHOT-jar-with-dependencies.jar" afterPath="$PROJECT_DIR$/business/service/target/service-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+      <change beforePath="$PROJECT_DIR$/business/service/target/service-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/business/service/target/service-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/business/service/target/surefire-reports/TEST-fr.anthonyrey.business.service.AppTest.xml" afterPath="$PROJECT_DIR$/business/service/target/surefire-reports/TEST-fr.anthonyrey.business.service.AppTest.xml" />
+      <change beforePath="$PROJECT_DIR$/business/service/target/surefire-reports/fr.anthonyrey.business.service.AppTest.txt" afterPath="$PROJECT_DIR$/business/service/target/surefire-reports/fr.anthonyrey.business.service.AppTest.txt" />
+      <change beforePath="$PROJECT_DIR$/business/service/target/test-classes/fr/anthonyrey/business/service/AppTest.class" afterPath="$PROJECT_DIR$/business/service/target/test-classes/fr/anthonyrey/business/service/AppTest.class" />
+      <change beforePath="$PROJECT_DIR$/business/target/business-1.0-SNAPSHOT-jar-with-dependencies.jar" afterPath="$PROJECT_DIR$/business/target/business-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+      <change beforePath="$PROJECT_DIR$/frontend/frontend.iml" afterPath="$PROJECT_DIR$/frontend/frontend.iml" />
+      <change beforePath="$PROJECT_DIR$/frontend/pom.xml" afterPath="$PROJECT_DIR$/frontend/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/main/java/fr/anthonyrey/frontend/FrontEnd.java" afterPath="$PROJECT_DIR$/frontend/src/main/java/fr/anthonyrey/frontend/FrontEnd.java" />
+      <change beforePath="$PROJECT_DIR$/frontend/target/classes/fr/anthonyrey/frontend/FrontEnd.class" afterPath="$PROJECT_DIR$/frontend/target/classes/fr/anthonyrey/frontend/FrontEnd.class" />
+      <change beforePath="$PROJECT_DIR$/frontend/target/frontend-1.0-SNAPSHOT-jar-with-dependencies.jar" afterPath="$PROJECT_DIR$/frontend/target/frontend-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+      <change beforePath="$PROJECT_DIR$/frontend/target/frontend-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/frontend/target/frontend-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/frontend/target/surefire-reports/TEST-fr.anthonyrey.frontend.AppTest.xml" afterPath="$PROJECT_DIR$/frontend/target/surefire-reports/TEST-fr.anthonyrey.frontend.AppTest.xml" />
+      <change beforePath="$PROJECT_DIR$/frontend/target/surefire-reports/fr.anthonyrey.frontend.AppTest.txt" afterPath="$PROJECT_DIR$/frontend/target/surefire-reports/fr.anthonyrey.frontend.AppTest.txt" />
+      <change beforePath="$PROJECT_DIR$/frontend/target/test-classes/fr/anthonyrey/frontend/AppTest.class" afterPath="$PROJECT_DIR$/frontend/target/test-classes/fr/anthonyrey/frontend/AppTest.class" />
+      <change beforePath="$PROJECT_DIR$/model/target/classes/fr/anthonyrey/model/Person.class" afterPath="$PROJECT_DIR$/model/target/classes/fr/anthonyrey/model/Person.class" />
+      <change beforePath="$PROJECT_DIR$/model/target/classes/fr/anthonyrey/model/PersonQuery.class" afterPath="$PROJECT_DIR$/model/target/classes/fr/anthonyrey/model/PersonQuery.class" />
+      <change beforePath="$PROJECT_DIR$/model/target/model-1.0-SNAPSHOT-jar-with-dependencies.jar" afterPath="$PROJECT_DIR$/model/target/model-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+      <change beforePath="$PROJECT_DIR$/model/target/model-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/model/target/model-1.0-SNAPSHOT.jar" />
+      <change beforePath="$PROJECT_DIR$/model/target/surefire-reports/TEST-fr.anthonyrey.model.AppTest.xml" afterPath="$PROJECT_DIR$/model/target/surefire-reports/TEST-fr.anthonyrey.model.AppTest.xml" />
+      <change beforePath="$PROJECT_DIR$/model/target/surefire-reports/fr.anthonyrey.model.AppTest.txt" afterPath="$PROJECT_DIR$/model/target/surefire-reports/fr.anthonyrey.model.AppTest.txt" />
+      <change beforePath="$PROJECT_DIR$/model/target/test-classes/fr/anthonyrey/model/AppTest.class" afterPath="$PROJECT_DIR$/model/target/test-classes/fr/anthonyrey/model/AppTest.class" />
+      <change beforePath="$PROJECT_DIR$/target/racine-1.0-SNAPSHOT-jar-with-dependencies.jar" afterPath="$PROJECT_DIR$/target/racine-1.0-SNAPSHOT-jar-with-dependencies.jar" />
+    </list>
     <ignored path="$PROJECT_DIR$/business/target/" />
     <ignored path="$PROJECT_DIR$/frontend/target/" />
     <ignored path="$PROJECT_DIR$/backend/target/" />
@@ -18,72 +57,118 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FrontEnd.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/frontend/src/main/java/fr/anthonyrey/frontend/FrontEnd.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="77" column="18" lean-forward="false" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PersonPersistenceService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/backend/src/main/java/fr/anthonyrey/backend/PersonPersistenceService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DirectoryService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/business/service/src/main/java/fr/anthonyrey/business/service/DirectoryService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/src/main/java/fr/anthonyrey/model/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PersonQuery.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model/src/main/java/fr/anthonyrey/model/PersonQuery.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="FrontEnd.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/frontend/src/main/java/fr/anthonyrey/frontend/FrontEnd.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="72">
+                  <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/business/service/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="612">
+                  <caret line="36" column="17" lean-forward="false" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="PersonPersistenceService.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/backend/src/main/java/fr/anthonyrey/backend/PersonPersistenceService.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="68">
+                  <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="DirectoryService.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/business/service/src/main/java/fr/anthonyrey/business/service/DirectoryService.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="68">
+                  <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/model/src/main/java/fr/anthonyrey/model/Person.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="544">
+                  <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="PersonQuery.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/model/src/main/java/fr/anthonyrey/model/PersonQuery.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="34">
+                  <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/frontend/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="439">
+                  <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/frontend/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="606">
+                  <caret line="38" column="4" lean-forward="false" selection-start-line="38" selection-start-column="4" selection-end-line="42" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".classpath" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/business/service/.classpath">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -95,6 +180,9 @@
       <replace>logger.debug</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -104,15 +192,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/backend/pom.xml" />
-        <option value="$PROJECT_DIR$/business/service/pom.xml" />
         <option value="$PROJECT_DIR$/model/pom.xml" />
         <option value="$PROJECT_DIR$/business/test/pom.xml" />
         <option value="$PROJECT_DIR$/business/pom.xml" />
-        <option value="$PROJECT_DIR$/frontend/pom.xml" />
         <option value="$PROJECT_DIR$/frontend/src/main/java/fr/anthonyrey/frontend/Main.java" />
         <option value="$PROJECT_DIR$/business/exceptions/src/main/java/fr/anthonyrey/business/exception/BusinessException.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/frontend/pom.xml" />
         <option value="$PROJECT_DIR$/frontend/src/main/java/fr/anthonyrey/frontend/FrontEnd.java" />
+        <option value="$PROJECT_DIR$/business/service/pom.xml" />
       </list>
     </option>
   </component>
@@ -133,10 +221,11 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="-7" />
     <option name="width" value="1936" />
     <option name="height" value="1048" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -152,9 +241,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -333,6 +419,9 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -480,15 +569,16 @@
       <workItem from="1518887926503" duration="707000" />
       <workItem from="1519122269336" duration="1414000" />
       <workItem from="1519128521714" duration="1965000" />
-      <workItem from="1519309566039" duration="800000" />
+      <workItem from="1519309566039" duration="2403000" />
+      <workItem from="1519321676782" duration="697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13587000" />
+    <option name="totallyTimeSpent" value="15887000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1936" height="1048" extended-state="0" />
+    <frame x="-7" y="0" width="1936" height="1048" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -496,18 +586,16 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.01687289" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18283582" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18496802" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -517,8 +605,10 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -536,9 +626,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
           <caret line="34" column="42" lean-forward="false" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -628,9 +716,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1496">
           <caret line="93" column="34" lean-forward="true" selection-start-line="93" selection-start-column="34" selection-end-line="93" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -686,9 +772,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -736,9 +820,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -798,13 +880,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/business/test/src/test/java/fr/anthonyrey/business/test/AppTest.java" />
-    <entry file="file://$PROJECT_DIR$/business/service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="28" lean-forward="false" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/business/test/pom.xml" />
     <entry file="file://$PROJECT_DIR$/backend/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -840,14 +915,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frontend/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="66" column="10" lean-forward="false" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/business/exceptions/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -864,28 +931,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/src/main/java/fr/anthonyrey/backend/PersonPersistenceService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/business/service/src/main/java/fr/anthonyrey/business/service/DirectoryService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/main/java/fr/anthonyrey/model/PersonQuery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -898,21 +947,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/main/java/fr/anthonyrey/model/PersonQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/src/main/java/fr/anthonyrey/backend/PersonPersistenceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
+        <state relative-caret-position="544">
           <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business/service/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frontend/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/frontend/src/main/java/fr/anthonyrey/frontend/FrontEnd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="77" column="18" lean-forward="false" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="72">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business/service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="17" lean-forward="false" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
