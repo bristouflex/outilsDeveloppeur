@@ -4,6 +4,7 @@ import fr.anthonyrey.model.Person;
 import fr.anthonyrey.model.PersonQuery;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 import static java.util.stream.Collectors.toList;
@@ -19,7 +20,7 @@ public class PersonPersistenceService {
     public List<Person> retrieve(PersonQuery personQuery) {
 
         if(mockDatabase.isEmpty()) {
-            return null; //so that sonar shows some mistakes ;)
+            return Collections.emptyList(); //so that sonar shows some mistakes ;)
         }
 
         return mockDatabase

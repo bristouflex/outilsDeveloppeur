@@ -1,10 +1,11 @@
 package fr.anthonyrey.frontend;
 
-import fr.anthonyrey.business.exceptions.BusinessException;
+import fr.anthonyrey.business.exception.BusinessException;
 import fr.anthonyrey.business.service.DirectoryService;
 import fr.anthonyrey.model.Person;
 import fr.anthonyrey.model.PersonQuery;
-
+import org.apache.log4j.BasicConfigurator;
+import org.apache.log4j.Logger;
 
 import java.util.Scanner;
 
@@ -14,13 +15,14 @@ public class FrontEnd {
     private static final String CHOICE_2 = "2";
     private static final String CHOICE_3 = "3";
     private static final String UNK_COMMAND = "Commande inconnue";
-
+    private static Logger logger = Logger.getLogger(FrontEnd.class);
     private DirectoryService directoryService;
     private Scanner reader = new Scanner(System.in);
     private boolean running = true;
 
     public static void main( String[] args )
     {
+        BasicConfigurator.configure();
         FrontEnd frontEnd = new FrontEnd();
         frontEnd.start();
     }
@@ -38,7 +40,7 @@ public class FrontEnd {
 
     private void whatToDo() {
 
-        System.out.println("Entrez la commande désirée : \n" +
+        logger.debug("Entrez la commande désirée : \n" +
                 "1) Ajouter une personne à l'annuaire\n" +
                 "2) Rechercher une personne\n" +
                 "3) Quitter");
@@ -56,7 +58,7 @@ public class FrontEnd {
                 running = false;
                 break;
             default:
-                System.out.println(UNK_COMMAND);
+                logger.debug(UNK_COMMAND);
                 break;
         }
     }
@@ -76,26 +78,26 @@ public class FrontEnd {
 
     private void getPerson() {
 
-        System.out.println("Entrez les valeurs à rechercher :");
-        System.out.println("Nom ?");
+        logger.debug("Entrez les valeurs à rechercher :");
+        logger.debug("Nom ?");
         String name = getString();
-        System.out.println("Prenom ?");
+        logger.debug("Prenom ?");
         String surname = getString();
-        System.out.println("Numéro ?");
+        logger.debug("Numéro ?");
         String phoneNumber = getString();
 
         PersonQuery p = new PersonQuery(name, surname, phoneNumber);
-        System.out.println(directoryService.getPersons(p));
+        logger.debug(directoryService.getPersons(p));
     }
 
     private void addPerson() {
 
-        System.out.println("Entrez une personne dans l'annuaire :");
-        System.out.println("Nom ?");
+        logger.debug("Entrez une personne dans l'annuaire :");
+        logger.debug("Nom ?");
         String name = getString();
-        System.out.println("Prenom ?");
+        logger.debug("Prenom ?");
         String surname = getString();
-        System.out.println("Numéro ?");
+        logger.debug("Numéro ?");
         String phoneNumber = getString();
 
         Person p = new Person(name, surname, phoneNumber);
@@ -103,7 +105,7 @@ public class FrontEnd {
         try {
             directoryService.createEntry(p);
         } catch (BusinessException e) {
-            System.out.println(e.getMessage());
+            logger.debug(e.getMessage());
         }
     }
 }

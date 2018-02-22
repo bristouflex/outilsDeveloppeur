@@ -57,7 +57,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>fr.anthonyrey.frontend</mainClass>
+                            <mainClass>fr.anthonyrey.frontend.FrontEnd</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

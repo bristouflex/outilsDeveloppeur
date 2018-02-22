@@ -1,6 +1,6 @@
-package fr.anthonyrey.business.test;
+package fr.anthonyrey.business.service;
 
-import fr.anthonyrey.business.exceptions.BusinessException;
+import fr.anthonyrey.business.exception.BusinessException;
 import fr.anthonyrey.business.service.DirectoryService;
 import fr.anthonyrey.model.Person;
 import org.junit.Before;

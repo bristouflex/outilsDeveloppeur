@@ -1,4 +1,4 @@
-package fr.anthonyrey.business.exceptions;
+package fr.anthonyrey.business.exception;
 
 public class BusinessException extends Exception {
 
